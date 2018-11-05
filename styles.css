@@ -1,0 +1,29 @@
+p{  
+    font-family: 'Arimo', sans-serif;
+    color:white;
+}
+li{
+    font-family: 'Arimo', sans-serif;
+    color:white;
+}
+h1{
+    font-family: 'Baloo Bhaijaan', cursive;    
+}
+h2{
+    font-family: 'Baloo Bhaijaan', cursive;    
+}
+h3{
+    font-family: 'Baloo Bhaijaan', cursive;    
+}
+h4{
+    font-family: 'Baloo Bhaijaan', cursive;
+}
+img{ 
+    width: 450Px;
+}
+body{
+    background-color:green;
+}
+a:hover{
+    background-color:white;
+}
